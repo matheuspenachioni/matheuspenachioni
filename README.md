@@ -1,5 +1,5 @@
 <h1>👋 Hey there! My name is Matheus</h1>
-> <h3>I love Java and I’m always looking to update myself in the area</h3>
+<h3>I love Java and I’m always looking to update myself in the area</h3>
 
 - 📧 E-mail: </br>
  **matheus.penachioni2001@gmail.com**
