@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <!-- Angular -->
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Framework" />
-  <img src="https://img.shields.io/badge/12-%23DD0031" alt="Version 12" />
+  <img src="https://img.shields.io/badge/12+-%23DD0031" alt="Version 12+" />
 </p>
 <p align="left"> 
   <!-- Java -->
@@ -41,6 +41,11 @@
   <!-- MySQL -->
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspenachioni&layout=compact&langs_count=7&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuspenachioni&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+</div>
 <!---
 MatheusPenachioni/MatheusPenachioni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
