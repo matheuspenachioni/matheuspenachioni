@@ -1,11 +1,11 @@
-<h1>👋 Hey there! My name is Matheus</h1>
+<h1><img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"> Hey there! My name is Matheus</h1>
 <h3>I love Java and I’m always looking to update myself in the area</h3>
 
 - 📧 E-mail: </br>
  **matheus.penachioni2001@gmail.com**
 
 - 📚 I’m currently learning: </br>
- **JSF** and **Microservices**
+ **JSF**, **Jasper** and **Microservices**
 
 - 📄 Status: </br>
  **Open to Work!**
@@ -13,6 +13,7 @@
 > <h3 align="left">Links:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/matheus-penachioni/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge"/></a>
 </p>
 
 > <h3 align="left">Skills:</h3>
