@@ -1,19 +1,18 @@
-<h1><img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"> Hey there! My name is Matheus</h1>
-<h3>I love Java and I’m always looking to update myself in the area</h3>
+<h1>Bem-vindo! Meu nome é Matheus</h1>
+<h3>Eu amo estudar e aprender coisas novas! A minha linguagem favorita é o Java...</h3>
 
 - 📧 E-mail: </br>
  **matheus.penachioni2001@gmail.com**
 
-- 📚 I’m currently learning: </br>
- **JSF**, **Jasper** and **Microservices**
+- 📚 Estudando atualmente: </br>
+ **JSF** e **Jasper**
 
 - 📄 Status: </br>
- **Open to Work!**
+ **Open to Work**
 
-> <h3 align="left">Links:</h3>
+> <h3 align="left">Portfólio:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/matheus-penachioni/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://portfolio-psi-sepia-55.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge"/></a>
+<a href="https://portfolio-psi-sepia-55.vercel.app" target="blank">Clique aqui para acessar</a>
 </p>
 
 > <h3 align="left">Skills:</h3>
