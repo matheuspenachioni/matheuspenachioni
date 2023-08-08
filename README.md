@@ -1,5 +1,5 @@
 <h1>Bem-vindo! Meu nome é Matheus</h1>
-<h3>Eu amo estudar e aprender coisas novas! A minha linguagem favorita é o Java...</h3>
+<h3>Estou sempre estudando e aprendendo coisas novas! Sou apaixonado por programação, a minha linguagem favorita é o Java...</h3>
 
 - 📧 E-mail: </br>
  **matheus.penachioni2001@gmail.com**
@@ -34,8 +34,6 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <!-- Springboot -->
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Framework" />
-</p>
-<p align="left">
   <!-- PostgreSQL -->
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
@@ -44,6 +42,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspenachioni&layout=compact&langs_count=7&theme=github_dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuspenachioni&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
+<p>"Nunca irei desistir! Nunca irei parar de me esforçar! Eu vou conseguir!"</p>
 <!---
 MatheusPenachioni/MatheusPenachioni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
