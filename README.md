@@ -42,7 +42,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspenachioni&layout=compact&langs_count=7&theme=github_dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuspenachioni&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
-<p>"Nunca irei desistir! Nunca irei parar de me esforçar! Eu vou conseguir!"</p>
+<br>
+<p align="center">"Nunca irei desistir, nem parar de me esforçar, eu vou conseguir! Só preciso de uma oportunidade..."</p>
 <!---
 MatheusPenachioni/MatheusPenachioni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
