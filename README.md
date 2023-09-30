@@ -1,6 +1,6 @@
 <h1>Seja bem-vindo(a), meu nome é Matheus!</h1>
 
-> <h3 align="left">Sobre:</h3>
+### Sobre:
 <h3>Estou sempre estudando para me aprimorar ainda mais e para aprender coisas novas! Sou apaixonado por tecnologia e pretendo me tornar um desenvolvedor fullstack ou backend</h3>
 
 - E-mail: </br>
@@ -11,14 +11,14 @@
 
 - Status: </br>
  **Open to Work**
-
-> <h3 align="left">Links:</h3>
+  
+### Links:
 <p align="left">
   <a href="https://www.linkedin.com/in/matheus-penachioni/" target="blank">LinkedIn</a> •
   <a href="https://portfolio-psi-sepia-55.vercel.app" target="blank">Portfólio</a>
 </p>
 
-> <h3 align="left">Skills:</h3>
+### Skills:
 <p align="left"> 
   <!-- GIT -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
