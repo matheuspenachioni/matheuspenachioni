@@ -1,25 +1,28 @@
-<h1>Seja bem-vindo(a), meu nome é Matheus!</h1>
-
-### Sobre:
-<h3>Estou sempre estudando para me aprimorar ainda mais e para aprender coisas novas! Sou apaixonado por tecnologia e pretendo me tornar um desenvolvedor fullstack ou backend</h3>
-
-- E-mail: </br>
- **matheus.penachioni2001@gmail.com**
-
-- Estudando atualmente: </br>
- Revendo **React**
-
-- Status: </br>
- **Open to Work**
-  
-### Links:
-<p align="left">
-  <a href="https://www.linkedin.com/in/matheus-penachioni/" target="blank">LinkedIn</a> •
-  <a href="https://portfolio-psi-sepia-55.vercel.app" target="blank">Portfólio</a>
-</p>
-
-### Skills:
-<p align="left"> 
+<h3 align="center">
+  <samp>
+    Hello world! Watashi wa <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/matheus-penachioni/">Matheus Penachioni</a> desu...</b>
+  </samp>
+</h3>
+<hr>
+<details align="center">
+   <summary><samp>About me</samp></summary>
+   I work as a JR Full-Stack Developer
+   <br><br>
+   I'm graduated in Internet Systems from FATEC Jales
+   <br><br>
+   Currently I’m reviewing Angular and Bootstrap
+</details>
+<details align="center">
+   <summary><samp>Contact</samp></summary>
+   Email me at <a rel="nofollow noopener noreferrer" href="mailto:matheus.penachioni2001@gmail.com" target="blank">matheus.penachioni2001@gmail.com</a>
+   <br>
+   Connect to me on <a rel="nofollow noopener noreferrer" href="https://www.linkedin.com/in/matheus-penachioni/" target="blank">LinkedIn</a>
+   <br>
+   See my projects in my <a rel="nofollow noopener noreferrer" href="https://matheus-penachioni.vercel.app" target="blank">portfolio</a>
+</details>
+<details align="center">
+   <summary><samp>Skills</samp></summary>
+<p> 
   <!-- GIT -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
   <!-- HTML -->
@@ -41,7 +44,7 @@
   <!-- PHP -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
   <!-- Laravel -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50"/>
   <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
   <!-- Firebase -->
@@ -51,7 +54,8 @@
   <!-- C# -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
 </p>
-<div>
+</details>
+<div align="center">
   <a href="https://github.com/matheuspenachioni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspenachioni&layout=compact&langs_count=7&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuspenachioni&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
